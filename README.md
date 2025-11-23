@@ -1,5 +1,3 @@
-📘 README.md
-
 # Splunk Platform Health Checks
 
 This repository contains **daily and weekly health check procedures**, **SPL examples**, and **monitoring guidelines** for Splunk Cloud and Splunk Enterprise.
