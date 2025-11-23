@@ -1,6 +1,5 @@
-```md
 # Weekly Health Review – Splunk Platform
-```
+
 
 ### 🎯 Purpose
 
