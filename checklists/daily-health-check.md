@@ -40,8 +40,6 @@ index=_internal sourcetype=splunkd component=LicenseUsage
 
 📌 Notes
 
-Helps detect ingestion delays early
-
-Ensures searches are running normally
-
-Aligns with Splunk Support best practices
+- Helps detect ingestion delays early
+- Ensures searches are running normally
+- Aligns with Splunk Support best practices
