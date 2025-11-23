@@ -33,6 +33,6 @@ index=_internal sourcetype=metrics group=per_sourcetype_thruput
 - Tune thresholds
 - Adjust suppression windows
 
-📌 Notes
+### 📌 Notes
 
 Weekly checks help identify slow-burning issues such as increasing delays, rising volumes, or misconfigurations.
